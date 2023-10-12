@@ -1,8 +1,8 @@
-##### Hakutaku Network
+# Hakutaku Network
 
 ### Introduction
 
-# Hakutaku Network (at least I call it so since it's not official) is
+##### Hakutaku Network (at least I call it so since it's not official) is
 AS216373
 An experimental network for learing.
 Run by a student.
