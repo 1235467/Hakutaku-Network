@@ -1,5 +1,5 @@
 ###  
-# Hakutaku Network
+
 
 ### Introduction
 
